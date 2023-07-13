@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "locationName": "пр-кт Народного Ополчения, 149",
+                "discipline": "House",
+                "title": "ЖК Трилогия",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2457160,
+                    59.8308560,
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locationName": "ул. Танкиста Хрустицкого, 9",
+                "discipline": "Hospital",
+                "title": "Скандинавия",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.250228,
+                    59.838186,
+                ]
+            }
+        }
+    ]
+}
