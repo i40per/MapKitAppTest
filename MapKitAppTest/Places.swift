@@ -63,4 +63,13 @@ class Places: NSObject, MKAnnotation {
         mapItem.name = title
         return mapItem
     }
+    
+    var markerTintColor: UIColor {
+        switch discipline {
+        case "House": return .black
+        case "Hospital": return .red
+        default:
+            return .black
+        }
+    }
 }

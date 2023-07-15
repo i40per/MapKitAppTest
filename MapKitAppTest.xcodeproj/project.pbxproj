@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D524A5052A5AA17A006F5BE6 /* Places.swift in Sources */ = {isa = PBXBuildFile; fileRef = D524A5042A5AA17A006F5BE6 /* Places.swift */; };
+		D53B96322A607C9F004282CE /* PlacesViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53B96312A607C9F004282CE /* PlacesViews.swift */; };
 		D56A87F02A59F43D00A46E10 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56A87EF2A59F43D00A46E10 /* AppDelegate.swift */; };
 		D56A87F22A59F43D00A46E10 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56A87F12A59F43D00A46E10 /* SceneDelegate.swift */; };
 		D56A87F42A59F43D00A46E10 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56A87F32A59F43D00A46E10 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		D524A5042A5AA17A006F5BE6 /* Places.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Places.swift; sourceTree = "<group>"; };
+		D53B96312A607C9F004282CE /* PlacesViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesViews.swift; sourceTree = "<group>"; };
 		D56A87EC2A59F43D00A46E10 /* MapKitAppTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapKitAppTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56A87EF2A59F43D00A46E10 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D56A87F12A59F43D00A46E10 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				D56A87EF2A59F43D00A46E10 /* AppDelegate.swift */,
 				D56A87F12A59F43D00A46E10 /* SceneDelegate.swift */,
 				D56A87F32A59F43D00A46E10 /* ViewController.swift */,
+				D53B96312A607C9F004282CE /* PlacesViews.swift */,
 				D524A5042A5AA17A006F5BE6 /* Places.swift */,
 				D56A87F52A59F43D00A46E10 /* Main.storyboard */,
 				D56A87F82A59F44000A46E10 /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 				D56A87F02A59F43D00A46E10 /* AppDelegate.swift in Sources */,
 				D56A87F22A59F43D00A46E10 /* SceneDelegate.swift in Sources */,
 				D524A5052A5AA17A006F5BE6 /* Places.swift in Sources */,
+				D53B96322A607C9F004282CE /* PlacesViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
